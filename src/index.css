@@ -4,4 +4,5 @@
 @theme {
   --color-neon-green: #1FA164;
   --font-roboto: 'Roboto', sans-serif;
+  --text-shadow-neon-green-blur: 0 3px 10px #00ff00;
 }
