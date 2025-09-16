@@ -5,8 +5,8 @@ const NavigationDesktop = () => {
     <div className="fixed inset-x-0 z-20 w-full backdrop-blur-lg bg-black">
       <nav className="min-w-[10px] h-[70px] flex items-center justify-items  p-2">
         <div className="w-[20px] w-[50%] bg-black h-[70px]">
-          <div className="p-2 inline-block">
-            <a href="/" className="">
+          <div className="p-2">
+            <a href="/">
               <img src="neonByte.png" alt="" className="w-[3.5em] h-[3.5em] transition duration-500 ease-in-out 
               hover:shadow-[0_0_10px_#00ff00]" />
             </a>
